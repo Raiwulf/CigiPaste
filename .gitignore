@@ -1,0 +1,4 @@
+__pycache__
+/logs
+*.json
+firebase_config.py
